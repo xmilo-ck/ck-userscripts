@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name     Neopets (beta) semi-legit restock helper
-// @version     2.1.5
+// @version     2.1.5.2
 // @namespace   xmilo@clraik
 // @description Neopets (beta) semi-legit restock helper clraik original
-// @include     /^https:\/\/(www\.)?neopets\.com\/haggle.phtml*
-// @include     /^https:\/\/(www\.)?neopets\.com\/objects.phtml*
+// @include     /https?://(?:www\.)?neopets\.com//?objects\.phtml*/
+// @include     /https?://(?:www\.)?neopets\.com//?haggle\.phtml*/
 // @require     http://code.jquery.com/jquery-3.4.1.min.js
 // @require     https://git.io/vMmuf
 // ==/UserScript==
