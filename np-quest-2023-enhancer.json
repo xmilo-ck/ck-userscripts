@@ -1,0 +1,44 @@
+{
+  "quests": [
+    {
+      "pattern": "Wheel of Excitement",
+      "replace": "<a href='https://www.neopets.com/faerieland/wheel.phtml'>Wheel of Excitement</a>"
+    },
+    {
+      "pattern": "Wheel of Misfortune",
+      "replace": "<a href='https://www.neopets.com/halloween/wheel/index.phtml'>Wheel of Misfortune</a>"
+    },
+    {
+      "pattern": "Wheel of Knowledge",
+      "replace": "<a href='https://www.neopets.com/medieval/knowledge.phtml'>Wheel of Knowledge</a>"
+    },
+    {
+      "pattern": "Wheel of Mediocrity",
+      "replace": "<a href='https://www.neopets.com/prehistoric/mediocrity.phtml'>Wheel of Mediocrity</a>"
+    },
+    {
+      "pattern": "Neopian Shop",
+      "replace": "Neopian Shops: <a href='https://www.neopets.com/objects.phtml?type=shop&obj_type=3'>Toy Shop</a>, <a href='https://www.neopets.com/objects.phtml?type=shop&obj_type=47'>Pizzaroo</a>, <a href='https://www.neopets.com/faerieland/springs.phtml'>Healing Springs</a>"
+    },
+    {
+      "pattern": "Game or Classic Game",
+      "replace": "<a href='https://www.neopets.com/games/'>Game</a> or <a href='https://www.neopets.com/games/classic.phtml'>Classic Game</a> (<a href='https://www.neopets.com/games/game.phtml?game_id=805&size=regular&quality=high&play=true'>Fashion Fever</a>, <a href ='https://www.neopets.com/games/game.phtml?game_id=500&size=regular&quality=high&play=true'>Meerca Chase II</a>)"
+    },
+    {
+      "pattern": "Customise one of your Neopets",
+      "replace": "<a href='https://www.neopets.com/customise'>Customise one of your Neopets</a>"
+    },
+    {
+      "pattern": "Groom one of your Neopets with any grooming item",
+      "replace": "Groom one of your Neopets with any grooming item: <a href='https://www.neopets.com/inventory.phtml'>Click here for inventory</a>, <a href='https://www.neopets.com/safetydeposit.phtml?obj_name=&category=10'>SDB</a> or go to <a href='https://www.neopets.com/objects.phtml?obj_type=5&type=shop'>Grooming Parlour</a>"
+    },
+    {
+      "pattern": "Feed any food item to one of your Neopets",
+      "replace": "Feed any food item to one of your Neopets: <a href='https://www.neopets.com/inventory.phtml'>Click here for inventory</a> or go to <a href ='https://www.neopets.com/safetydeposit.phtml?obj_name=&category=18'>SDB</a>"
+    },
+    {
+      "pattern": "Purchase item(s) from any Neopian Shops",
+      "replace": "Purchase item(s) from any Neopian Shops: <a href='https://www.neopets.com/objects.phtml?type=shop&amp;obj_type=3'>Toy Shop</a>, <a href='https://www.neopets.com/objects.phtml?type=shop&amp;obj_type=47'>Pizzaroo</a>, <a href='https://www.neopets.com/faerieland/springs.phtml'>Healing Springs</a>"
+    }
+  ]
+}
