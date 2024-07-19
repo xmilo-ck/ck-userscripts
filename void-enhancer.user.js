@@ -2,7 +2,7 @@
 // @name         Neopets: The Void Within enhancer
 // @namespace    xmilo@clraik
 // @version      1.0.0
-// @description  try to take over the world!
+// @description  Removal of (one too many) unnecessary pop-up/confirmation dialogs! Addition of navigation bar to the main plot hub on related pages such as Volunteer Centre and Barracks! Addition of new drop-down menu to provide you links to Volunteer Centre and Barracks!
 // @author       xmilo
 // @include      /https?://(?:www\.)?neopets\.com/(hospital/volunteer*|dome/barracks*|tvw*)
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=neopets.com
