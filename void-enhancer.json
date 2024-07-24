@@ -1,14 +1,14 @@
 {
-  "date": "2024-07-23",
+  "date": "2024-07-24",
   "locations": [
     {
-      "url": "<a href='/objects.phtml'>Neopia Central</a>"
+      "url": "<a href='/shenkuu/index.phtml'>Shenkuu</a>"
     },
     {
-      "url": "<a href='/market_plaza.phtml'>Neopian Plaza</a>"
+      "url": "<a href='/halloween/index_fair.phtml'>The Deserted Fairground</a>"
     },
     {
-      "url": "<a href='/prehistoric/index.phtml'>Tyrannia</a>"
+      "url": "<a href='/medieval/index_evil.phtml'>Darigan Citadel</a>"
     }
   ]
 }
