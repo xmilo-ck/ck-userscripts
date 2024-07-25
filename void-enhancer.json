@@ -1,14 +1,17 @@
 {
-  "date": "2024-07-24",
+  "date": "2024-07-25",
   "locations": [
     {
-      "url": "<a href='/shenkuu/index.phtml'>Shenkuu</a>"
+      "url": "<a href='https://www.neopets.com/medieval/index_evil.phtml'>Darigan Citadel</a>"
     },
     {
-      "url": "<a href='/halloween/index_fair.phtml'>The Deserted Fairground</a>"
+      "url": "<a href='https://www.neopets.com/market_bazaar.phtml'>Neopian Bazaar</a>"
     },
     {
-      "url": "<a href='/medieval/index_evil.phtml'>Darigan Citadel</a>"
+      "url": "<a href='https://www.neopets.com/halloween/neovia.phtml'>Neovia</a>"
     }
   ]
 }
+
+
+
