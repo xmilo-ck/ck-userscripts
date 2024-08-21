@@ -1,17 +1,14 @@
 {
-  "date": "2024-07-25",
+  "date": "2024-08-21",
   "locations": [
     {
-      "url": "<a href='https://www.neopets.com/medieval/index_evil.phtml'>Darigan Citadel</a>"
+      "url": "<a href='https://www.neopets.com/winter/terrormountain.phtml'>Terror Mountain: Top of the Mountain</a>"
     },
     {
-      "url": "<a href='https://www.neopets.com/market_bazaar.phtml'>Neopian Bazaar</a>"
+      "url": "<a href='https://www.neopets.com/objects.phtml'>Neopia Central</a>"
     },
     {
-      "url": "<a href='https://www.neopets.com/halloween/neovia.phtml'>Neovia</a>"
+      "url": "<a href='https://www.neopets.com/medieval/index_farm.phtml'>Meri Acres Farm</a>"
     }
   ]
 }
-
-
-
