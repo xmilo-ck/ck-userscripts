@@ -1,14 +1,14 @@
 {
-  "date": "2024-08-22",
+  "date": "2024-09-04",
   "locations": [
     {
-      "url": "<a href='https://www.neopets.com/halloween/index_fair.phtml'>The Deserted Fairground</a>"
+      "url": "<a href='https://www.neopets.com/prehistoric/index.phtml'>Tyrannia</a>"
     },
     {
-      "url": "<a href='https://www.neopets.com/market_bazaar.phtml'>The Neopian Bazaar</a>"
+      "url": "<a href='https://www.neopets.com/moon/index.phtml'>Krawk Island</a>"
     },
     {
-      "url": "<a href='https://www.neopets.com/objects.phtml'>Neopia Central</a>"
+      "url": "<a href='https://www.neopets.com/pirates/index.phtml'>Kreludor</a>"
     }
   ]
 }
